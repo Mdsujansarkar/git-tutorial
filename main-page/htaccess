@@ -1,0 +1,15 @@
+RewriteRule ^router router.php
+RewriteRule ^laptop laptop.php
+RewriteRule ^mobile mobile.php
+RewriteRule ^tab tab.php
+RewriteRule ^print print.php
+RewriteRule ^reactifier reactifier.php
+RewriteRule ^monitor monitor.php
+RewriteRule ^genaretor genaretor.php
+RewriteRule ^web web.php
+RewriteRule ^motraning motraning.php
+RewriteRule ^gameTraning gameTraning.php
+RewriteRule ^graphicDesign graphicDesign.php
+RewriteRule ^seooptimize seooptimize.php
+RewriteRule ^frtraning frtraning.php
+RewriteRule ^govmentit govmentit.php
